@@ -4,8 +4,8 @@ Comenzó como repositorio de los trabajos entregados para la asignatura tópicos
 poder seguir agregando información.
 
 
-Hecho por: \
+Hecho por:
 \
-1  Juan Camilo Murcia    2191322 UIS \\
+1  Juan Camilo Murcia    2191322 UIS \
 \
 2  Juan David Lamus      2191900 UIS
